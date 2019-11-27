@@ -171,8 +171,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1792,
-                    "y": 270,
+                    "x": 1407,
+                    "y": 198,
                     "ioValues": []
                 }
             ],
